@@ -1,5 +1,5 @@
 # 🚀 Local SLM Benchmark App (Ollama)
-
+<img src="assets/architecture.png" width="700"/>
 ## 📌 Overview
 This project benchmarks multiple Small Language Models (SLMs) running locally using Ollama. It compares models on latency, CPU usage, and output quality — highlighting real-world tradeoffs between performance and accuracy.
 
