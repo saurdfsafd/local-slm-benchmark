@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Env
+.env
+
+# Ollama models (DO NOT PUSH)
+.ollama/
+D:/OllamaModels/
+
+# Reports (optional)
+reports/results.json
